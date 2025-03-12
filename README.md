@@ -2,7 +2,7 @@
 
 > **Design Of C++ Chat Room from Eraser**
 
-
+[![wakatime](https://wakatime.com/badge/github/knerd1/Chat-Room-App.svg)](https://wakatime.com/badge/github/knerd1/Chat-Room-App)
 
 
 
