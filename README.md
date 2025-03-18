@@ -3,6 +3,3 @@
 > **Design Of C++ Chat Room from Eraser**
 
 
-
-
- Eraser file: https://app.eraser.io/workspace/5Ixinu0j2GmHeEwq4e1d 
