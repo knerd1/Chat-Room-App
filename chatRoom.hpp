@@ -37,7 +37,9 @@ public:
 private:
   deque<Message> messageQueue;
   enum { MaxParticipants = 100 };
-  set<participantPointer> participant;
+  set<participantPointer>
+      participants; // Set for Participants Because,C2 Sending message And it
+                    // goes to only c1 and c3 Participants dont come back to c2
 };
 
 class Session : public Participants,
