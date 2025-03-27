@@ -30,7 +30,7 @@ The `Session` class manages a client's connection to the chat room. It handles t
 
 The `Room` class manages the chat room itself. It keeps track of all connected clients, and provides methods for adding and removing clients, and for delivering messages to all participants in the room.
 
-![Canvas Design](https://ibb.co/tM3KnR9d "canvas")
+![diagram-export-27-3-2025-11_17_57-am](https://github.com/user-attachments/assets/a8885213-2086-4b8e-a79b-06732da19484)
 
 
 ## Build and Run
